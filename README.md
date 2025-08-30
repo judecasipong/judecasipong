@@ -20,4 +20,4 @@ My name is Jude. I'm an aspiring Cybersecurity Professional. Attackers only need
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48" height="48" alt="X (Twitter)" />](https://x.com/casipongjude)
 &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://https://www.linkedin.com/in/judecasipong)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/judecasipong)
