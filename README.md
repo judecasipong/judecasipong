@@ -4,9 +4,9 @@
 
 My name is Jude. I'm an aspiring Cybersecurity Professional. Attackers only need to succeed once — defenders must succeed every single time.
 
-<p align="center">
+<p align="left">
   <a href="#technologies-and-tools">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2500&pause=1000&color=0B6623&center=true&vCenter=true&width=900&lines=🛠%20%20Technologies%20and%20tools" alt="Technologies and tools" />
+    <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/technologies-banner.svg" alt="Technologies and tools" width="900" />
   </a>
 </p>
 
