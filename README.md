@@ -18,6 +18,6 @@ My name is Jude. I'm an aspiring Cybersecurity Professional. Attackers only need
 
 ## 🔍  Where to find me
 
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/10927329/valentin-briand)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48" height="48" alt="X (Twitter)" />](https://x.com/yourusername)
 &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/valentinbriand42)
