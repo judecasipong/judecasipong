@@ -8,13 +8,13 @@ My name is Jude. I'm an aspiring Cybersecurity Professional. Attackers only need
 
 <a name="learning-now"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react,vscode,python)](#technologies-and-tools)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,php,vscode,python)](#technologies-and-tools)
 
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
 
-[![My Skills](https://skillicons.dev/icons?i=linux,aws)](#learning-now)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,bash,powershell)](#learning-now)
 
 ## 🔍  Where to find me
 
