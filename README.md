@@ -7,22 +7,19 @@ My name is Jude. I'm an aspiring Cybersecurity Professional. Attackers only need
 
 &nbsp;
 
-## 🛠 Technologies and tools
-
-&nbsp;
-
 <a name="learning-now"></a>
-
+## 🛠 Technologies and tools
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,php,vscode,python)](#technologies-and-tools)
 
+
+&nbsp;
 <a name="learning-next"></a>
-
 ## 📖  What I am currently learning / improving on
-
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,bash,powershell)](#learning-now)
 
-## 🔍  Where to find me
 
+&nbsp;
+## 🔍  Where to find me
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48" height="48" alt="X (Twitter)" />](https://x.com/casipongjude)
 &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/judecasipong)
