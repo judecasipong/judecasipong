@@ -4,6 +4,8 @@
 
 My name is Jude. I'm an aspiring Cybersecurity Professional. Attackers only need to succeed once — defenders must succeed every single time.
 
+## 🛠 Technologies and tools
+
 <a name="learning-now"></a>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react,vscode,python)](#technologies-and-tools)
