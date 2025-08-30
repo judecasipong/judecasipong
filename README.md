@@ -4,11 +4,6 @@
 
 My name is Jude. I'm an aspiring Cybersecurity Professional. Attackers only need to succeed once — defenders must succeed every single time.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/technologies-banner.svg" 
-       alt="Technologies and tools" width="900" />
-</p>
-
 <a name="learning-now"></a>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react,vscode,python)](#technologies-and-tools)
