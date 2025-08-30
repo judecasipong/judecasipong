@@ -2,9 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=900&lines=Bonjour;Hola;Ciao;Ni+hao;Konnichiwa;Annyeonghaseyo;Namaste;Hello%2C+World!;Hello%2C+World!)](https://git.io/typing-svg)
 
+&nbsp;
 My name is Jude. I'm an aspiring Cybersecurity Professional. Attackers only need to succeed once — defenders must succeed every single time.
 
+&nbsp;
+
 ## 🛠 Technologies and tools
+
+&nbsp;
 
 <a name="learning-now"></a>
 
